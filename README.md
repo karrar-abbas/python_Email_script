@@ -7,3 +7,4 @@ The script only works with Gmail accounts
 
 Allow less secure apps: Must be enabled from account settings
 --------------------------------------------------------
+The project By Code for Iraq Initiative.
